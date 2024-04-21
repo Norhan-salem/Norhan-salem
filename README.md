@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/ font=roboto+mono&weight=800&color=FA2770&width=435&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Norhan!;" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=roboto+mono&weight=800&size=35&duration=4000&pause=1000&color=FA2770&center=true&vCenter=true&random=false&width=600&height=70&lines=Hi+There+%F0%9F%91%8B%F0%9F%8F%BC+;I'm+Norhan+%F0%9F%A7%95%F0%9F%8F%BC%F0%9F%91%A9%F0%9F%8F%BC%E2%80%8D%F0%9F%92%BB;" />
 </h1>
 
 <h3 align="center">A passionate software engineering student at Ain Shams University</h3>
