@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Flutter, Kotlin, AWS**
 
-💬 Ask me about **Python, C, Firebase... or anything [here](https://github.com/Norhan-salem/Norhan-salem/issues)**
+💬 Ask me about **Python, C... or anything [here](https://github.com/Norhan-salem/Norhan-salem/issues)**
 
 ⚡ Fun fact **Flamingos bend their legs at the ankle not the knee**
 
@@ -37,8 +37,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,git,r" />
-    <img src="https://skillicons.dev/icons?i=python,javascript,mongodb,c,java,mysql," /><br>
+    <img src="https://skillicons.dev/icons?i=flutter,react,html,css,vscode,androidstudio,arduino,bash,linux,ubuntu,github,git,githubactions,aws,docker,emacs,vim" />
+    <img src="https://skillicons.dev/icons?i=py,c,cpp,java,kotlin,dart,javascript,mongodb,mysql,redis,opencv,ps,powershell,pytorch,tensorflow" /><br>
 </div>
 
 <br/>
@@ -57,10 +57,10 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats-Norhan-salem.vercel.app/?user=Norhan-salem&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-Norhan-salem.vercel.app/api?username=Norhan-salem&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=390 src="https://streak-stats.demolab.com/?user=Norhan-salem&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Norhan-salem&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats-Norhan-salem.vercel.app/api/top-langs/?username=Norhan-salem&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Norhan-salem&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 <br/><br/>
