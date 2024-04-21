@@ -34,8 +34,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=flutter,py,c,cpp,java,kotlin,dart,javascript,react,html,css,vscode,androidstudio,powershell,bash,emacs,vim,linux,ubuntu" />
-    <img src="https://skillicons.dev/icons?i=arduino,mongodb,mysql,redis,github,git,githubactions,aws,docker,opencv,ps,pytorch,tensorflow" /><br>
+    <img src="https://skillicons.dev/icons?i=flutter,py,c,cpp,java,kotlin,dart,javascript,react,html,css,powershell,bash,emacs,vim,linux,ubuntu" />
+    <img src="https://skillicons.dev/icons?i=vscode,androidstudio,arduino,mongodb,mysql,redis,github,git,githubactions,aws,docker,opencv,ps,pytorch,tensorflow" /><br>
 </div>
 
 <br/>
