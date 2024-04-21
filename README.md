@@ -27,9 +27,6 @@
   <a href="https://linkedin.com/in/norhanwaleed" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://Norhan-salem.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
 </div>
 
  <hr/>
@@ -37,8 +34,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=flutter,react,html,css,vscode,androidstudio,arduino,bash,linux,ubuntu,github,git,githubactions,aws,docker,emacs,vim" />
-    <img src="https://skillicons.dev/icons?i=py,c,cpp,java,kotlin,dart,javascript,mongodb,mysql,redis,opencv,ps,powershell,pytorch,tensorflow" /><br>
+    <img src="https://skillicons.dev/icons?i=flutter,py,c,cpp,java,kotlin,dart,javascript,react,html,css,vscode,androidstudio,powershell,bash,emacs,vim,linux,ubuntu" />
+    <img src="https://skillicons.dev/icons?i=arduino,mongodb,mysql,redis,github,git,githubactions,aws,docker,opencv,ps,pytorch,tensorflow" /><br>
 </div>
 
 <br/>
