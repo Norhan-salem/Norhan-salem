@@ -1,7 +1,5 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Norhan-salem.Norhan-salem" />
-
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Norhan!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/ font=roboto+mono&weight=800&color=FA2770&random=false&width=435&&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Norhan!;" />
 </h1>
 
 <h3 align="center">A passionate software engineering student at Ain Shams University</h3>
