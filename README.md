@@ -34,7 +34,7 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=flutter,dart,py,c,cpp,java,kotlin,javascript,react,html,css" />
     <img src="https://skillicons.dev/icons?i=powershell,bash,emacs,vim,linux,ubuntu,vscode,androidstudio,arduino,mongodb" /><br>
-    <img src="https://skillicons.dev/icons?i=mysql,redis,github,git,githubactions,aws,docker,opencv,ps,pytorch,tensorflow" /><br>
+    <img src="https://skillicons.dev/icons?i=mysql,github,git,githubactions,opencv,ps,pytorch,tensorflow" /><br>
 </div>
 
 <br/>
