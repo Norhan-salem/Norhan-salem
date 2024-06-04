@@ -10,7 +10,7 @@
  
  🔭 I’m currently working on **a QR-code detector, Distributed image processing system and a smart garage system**
  
- 🌱 I’m currently learning **Flutter, Kotlin, AWS**
+ 🌱 I’m currently learning **Flutter**
 
 💬 Ask me about **Python, C... or anything [here](https://github.com/Norhan-salem/Norhan-salem/issues)**
 
@@ -32,8 +32,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,py,c,cpp,java,kotlin,javascript,react,html,css" />
-    <img src="https://skillicons.dev/icons?i=powershell,bash,emacs,vim,linux,ubuntu,vscode,androidstudio,arduino,mongodb" /><br>
+    <img src="https://skillicons.dev/icons?i=flutter,dart,py,c,cpp,java,javascript,react,html,css" />
+    <img src="https://skillicons.dev/icons?i=powershell,bash,emacs,vim,linux,ubuntu,vscode,androidstudio,mongodb" /><br>
     <img src="https://skillicons.dev/icons?i=mysql,github,git,githubactions,opencv,ps,pytorch,tensorflow" /><br>
 </div>
 
