@@ -8,9 +8,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a QR-code detector, Distributed image processing system and a smart garage system**
+<!--🔭 I’m currently working on **a QR-code detector, Distributed image processing system and a smart garage system**
  
- 🌱 I’m currently learning **Flutter**
+🌱 I’m currently learning **Flutter**-->
 
 💬 Ask me about **Python, C... or anything [here](https://github.com/Norhan-salem/Norhan-salem/issues)**
 
