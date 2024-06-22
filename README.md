@@ -32,9 +32,9 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,py,c,cpp,java,javascript,react,html,css" />
-    <img src="https://skillicons.dev/icons?i=powershell,bash,emacs,vim,linux,ubuntu,vscode,androidstudio,mongodb" /><br>
-    <img src="https://skillicons.dev/icons?i=mysql,github,git,githubactions,opencv,ps,pytorch,tensorflow" /><br>
+    <img src="https://skillicons.dev/icons?i=py,c,cpp,java,javascript,react,html,css,ubuntu,vscode" />
+    <img src="https://skillicons.dev/icons?i=powershell,bash,emacs,vim,linux,mongodb,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=github,git,githubactions,opencv,ps,pytorch,tensorflow" /><br>
 </div>
 
 <br/>
