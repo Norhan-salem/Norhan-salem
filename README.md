@@ -12,7 +12,7 @@
  
 🌱 I’m currently learning **Flutter**-->
 
-💬 Ask me about **Python, C... or anything [here](https://github.com/Norhan-salem/Norhan-salem/issues)**
+💬 Ask me about **React.js, Java, Python, C or anything [here](https://github.com/Norhan-salem/Norhan-salem/issues)**
 
 ⚡ Fun fact **Flamingos bend their legs at the ankle not the knee**
 
