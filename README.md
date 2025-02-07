@@ -32,9 +32,9 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=py,c,cpp,java,javascript,react,html,css" />
-    <img src="https://skillicons.dev/icons?i=ubuntu,powershell,bash,emacs,vim,linux,mongodb,postgress" /><br>
-    <img src="https://skillicons.dev/icons?i=github,git,githubactions,ps,unity,vscode" /><br>
+    <img src="https://skillicons.dev/icons?i=py,c,cpp,java,javascript,typescript,spring,react,html,css" />
+    <img src="https://skillicons.dev/icons?i=ubuntu,powershell,bash,emacs,vim,linux,mongodb" /><br>
+    <img src="https://skillicons.dev/icons?i=postgress,github,git,githubactions,ps,unity,vscode" /><br>
 </div>
 
 <br/>
@@ -53,7 +53,6 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://streak-stats.demolab.com/?user=Norhan-salem&count_private=true&theme=radical&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=Norhan-salem&count_private=true&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Norhan-salem&hide=HTML&langs_count=8&layout=compact&theme=radical&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
