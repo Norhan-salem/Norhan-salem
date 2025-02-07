@@ -2,17 +2,17 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=roboto+mono&weight=800&size=35&duration=4000&pause=1000&color=FA2770&center=true&vCenter=true&random=false&width=600&height=70&lines=Hi+There+%F0%9F%91%8B%F0%9F%8F%BC+;I'm+Norhan+%F0%9F%A7%95%F0%9F%8F%BC%F0%9F%91%A9%F0%9F%8F%BC%E2%80%8D%F0%9F%92%BB;" />
 </h1>
 
-<h3 align="center">A passionate software engineering student at Ain Shams University</h3>
+<h3 align="center">A passionate software engineer looking to explore new technologies</h3>
 
 <br/>
 
 <div align="center">
  
-<!--🔭 I’m currently working on **a QR-code detector, Distributed image processing system and a smart garage system**
+<!--🔭 I’m currently working on **visualizing data using VR and revamping a streaming service**
  
 🌱 I’m currently learning **Flutter**-->
 
-💬 Ask me about **React.js, Java, Python, C or anything [here](https://github.com/Norhan-salem/Norhan-salem/issues)**
+💬 Ask me about **React.js, Java, Python or anything [here](https://github.com/Norhan-salem/Norhan-salem/issues)**
 
 ⚡ Fun fact **Flamingos bend their legs at the ankle not the knee**
 
@@ -33,8 +33,8 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=py,c,cpp,java,javascript,react,html,css" />
-    <img src="https://skillicons.dev/icons?i=ubuntu,powershell,bash,emacs,vim,linux,mongodb,mysql" /><br>
-    <img src="https://skillicons.dev/icons?i=github,git,githubactions,opencv,ps,pytorch,tensorflow,vscode" /><br>
+    <img src="https://skillicons.dev/icons?i=ubuntu,powershell,bash,emacs,vim,linux,mongodb,postgress" /><br>
+    <img src="https://skillicons.dev/icons?i=github,git,githubactions,ps,unity,vscode" /><br>
 </div>
 
 <br/>
